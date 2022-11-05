@@ -200,14 +200,14 @@ header{
         width: 25px;
         height: 100%;
         border-radius: 50%;
-        background-color: #338af3;
+        background-color: #047C3F;
         transition: left 1s;
         cursor: pointer;
     }
     
     .ball-move{
         left: calc(100% - 40px);
-        background-color: #047C3F;
+        background-color: #338af3;
     }
 }
 }
